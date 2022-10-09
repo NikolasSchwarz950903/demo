@@ -11,7 +11,7 @@ Demo-Repository for school
 3. Create your own branch using `git checkout -b <breanch_name>` (Preferably your name)
 4. Implement the function found in `src/prim.py`:
     - The function takes an parameter `n`, and returns all prim numbers up to (including) `n` in any iterable container
-    - You are *not* allowed to change the function name
+    - You are **not** allowed to change the function name
 5. Stage the changes using `git add src/prim.py` or `git add .` (to add all files to staging)
 6. Create a meaningful commit message using `git commit -m  <msg>`
 7. Push the changes to the remote repository using `git push -u origin <branch_name>`
