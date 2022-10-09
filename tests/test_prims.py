@@ -7,7 +7,8 @@ from src.prim import prim_numbers
     [
         (100, 25),
         (1_000, 168),
-        (10_000, 1229),(31, 11),
+        (10_000, 1229),
+        (31, 11),
     ]
 )
 def test_prims(n: int, expected_count: int):
